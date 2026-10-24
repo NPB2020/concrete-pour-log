@@ -1,0 +1,5 @@
+Record Type,Project,Project Ref,Pour / Element,Date,Supplier,Mix Ref,Ordered Volume,Unit,Ticket / Delivery No,Truck No,Delivered Volume,Arrival Time,Discharge Start,Discharge Finish,Concrete Temperature,Test Type,Test Result,Test Unit,Sample / Specimen Ref,Issue / Observation,Action Taken,Status,Ticket Photo Ref,General Photo Ref,Notes
+POUR,Riverside Office Building,ROB-2026-001,Level 2 - Floor Slab,2026-10-24,Texas Ready Mix,,120,yd3,,,,,,,,,,,,,,,,,
+DELIVERY,Riverside Office Building,ROB-2026-001,Level 2 - Floor Slab,2026-10-24,Texas Ready Mix,,,yd3,#842371,#237,15.0,,,,78,,,,,,,Delivered,ticket-842371.jpg,,Illustrative example
+TEST,Riverside Office Building,ROB-2026-001,Level 2 - Floor Slab,2026-10-24,Texas Ready Mix,,,,,,,,,,,Slump,5.0,in,ROB-L2-01,,,,,,Illustrative example - acceptance criteria not stated
+ISSUE,Riverside Office Building,ROB-2026-001,Level 2 - Floor Slab,2026-10-24,Texas Ready Mix,,,,#842371,,,,,,,,,,,Delivery interval longer than preceding sequence,Event recorded; placement resumed after delivery arrival,Recorded,,site-grid-b4.jpg,Illustrative example
